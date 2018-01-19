@@ -22,3 +22,7 @@ At least one ViewGroup is included
 XML must include a RelativeLayout or LinearLayout
 ViewGroups contain at least one ImageView and at least one TextView
 The project must have one or more ImageViews and TextViews
+
+
+
+
