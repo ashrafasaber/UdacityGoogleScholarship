@@ -1,3 +1,24 @@
+
+**HelloAndroid | Lesson 5**
 This folder includes the solution for the first project in the Udacity Grow with Google Challenge.
 
 Details of the project are captured under Lesson 5 
+In order for your project to pass, it must meet the following specifications
+
+**Basic Project Requirements**
+Project is named HelloAndroid
+
+**Design Requirements**
+Design includes, at minimum, the following text (business name, address, and phone number):
+
+Udacity
+2465 Latham St
+Mountain View, CA 94043
+650-555-5555
+Design includes at least one image that the student feels represents the business in some way (creativity is fine, and encouraged!)
+
+**Code Requirements**
+At least one ViewGroup is included
+XML must include a RelativeLayout or LinearLayout
+ViewGroups contain at least one ImageView and at least one TextView
+The project must have one or more ImageViews and TextViews
